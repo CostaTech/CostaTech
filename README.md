@@ -68,6 +68,3 @@ Hands-on **embedded electronics**: ultrasonic parking sensor, PWM LED dimmer, tr
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=costatechdev&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="150" />
-</p>
