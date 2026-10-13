@@ -1,4 +1,4 @@
-<!-- 💡 BANNER:
+<!-- 💡 BANNER: quando hai un'immagine tua, togli i <!-- --> qui sotto e metti il link -->
 <!--
 <p align="center">
   <img src="IL_TUO_BANNER.png" alt="CostaTech" width="100%">
@@ -8,14 +8,14 @@
 <h1 align="center">Hi, I'm CostaTech 👋</h1>
 
 <p align="center">
-  Self-taught developer & maker — building from the metal up.
+  Teenage self-taught developer & maker — building from the metal up.
 </p>
 
 ---
 
 ### about
 
-I'm teenage self-taught developer,Self-taught developer who loves understanding how things work *underneath*. I build from the ground up: operating systems, my own programming language, games, and hardware. Lately I'm deep into embedded electronics and reverse engineering — anything low-level and hands-on.
+Teenage self-taught developer who loves understanding how things work *underneath*. I build from the ground up: operating systems, my own programming language, games, and hardware. Lately I'm deep into embedded electronics and reverse engineering — anything low-level and hands-on.
 
 🐧 Debian Linux  •  🔧 hardware & electronics  •  🧠 low-level & systems  •  🎯 heading to *istituto tecnico informatico*
 
@@ -67,4 +67,8 @@ Hands-on **embedded electronics**: ultrasonic parking sensor, PWM LED dimmer, tr
 - GitHub: **[@costatechdev](https://github.com/costatechdev)**
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=costatechdev&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="150" />
+</p>
 
