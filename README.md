@@ -1,4 +1,4 @@
-<!-- 💡 BANNER: quando hai un'immagine tua, togli i <!-- --> qui sotto e metti il link -->
+<!-- 💡 BANNER:
 <!--
 <p align="center">
   <img src="IL_TUO_BANNER.png" alt="CostaTech" width="100%">
