@@ -1,4 +1,4 @@
-<!-- 💡 BANNER: quando hai un'immagine tua, togli i <!-- --> qui sotto e metti il link -->
+<!-- 💡 BANNER:
 <!--
 <p align="center">
   <img src="IL_TUO_BANNER.png" alt="CostaTech" width="100%">
@@ -66,9 +66,4 @@ Hands-on **embedded electronics**: ultrasonic parking sensor, PWM LED dimmer, tr
 
 - GitHub: **[@costatechdev](https://github.com/costatechdev)**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=costatechdev&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="150" />
-</p>
 
