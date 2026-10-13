@@ -15,7 +15,7 @@
 
 ### about
 
-I'm teenage self-taught developer”,Self-taught developer who loves understanding how things work *underneath*. I build from the ground up: operating systems, my own programming language, games, and hardware. Lately I'm deep into embedded electronics and reverse engineering — anything low-level and hands-on.
+I'm teenage self-taught developer,Self-taught developer who loves understanding how things work *underneath*. I build from the ground up: operating systems, my own programming language, games, and hardware. Lately I'm deep into embedded electronics and reverse engineering — anything low-level and hands-on.
 
 🐧 Debian Linux  •  🔧 hardware & electronics  •  🧠 low-level & systems  •  🎯 heading to *istituto tecnico informatico*
 
